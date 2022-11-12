@@ -45,16 +45,16 @@ body {
     position: relative;
 }
 
-.header-bottom .dep1 {
+.header-bottom .gnb1 {
     font-size: 0px;
     width: 520px;
 }
 
-.header-bottom .dep1 > li:hover > a{
+.header-bottom .gnb1 > li:hover > a{
     color: #4b7bff;
 }
 
-.header-bottom .dep1 > li {
+.header-bottom .gnb1 > li {
     display: inline-block;
     width: 100px;
     vertical-align: top;
@@ -62,29 +62,29 @@ body {
 }
 
 
-.header-bottom .dep1 > li > a {
+.header-bottom .gnb1 > li > a {
     display: block;
     text-decoration: none;
     font-size: 18px;
     padding: 30px 0;
 }
 
-.header-bottom .dep2 {
+.header-bottom .gnb2 {
     display: none;
     background: #ffffff;  
 }
 
-.header-bottom .dep1 > li:hover > .dep2 {
+.header-bottom .gnb1 > li:hover > .gnb2 {
     display: block;
 }
 
-.header-bottom .dep2 a {
+.header-bottom .gnb2 a {
     display: block;
     text-decoration: none;
     padding: 10px 0; 
 }
 
-.header-bottom .dep2 a:hover {
+.header-bottom .gnb2 a:hover {
     color: #4b7bff;
 }
 
